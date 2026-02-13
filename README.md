@@ -59,12 +59,6 @@ This project showcases how to integrate AI APIs into Android apps using modern U
 
 ---
 
-## 📸 App Preview
-
-(Add screenshots or GIF demo here)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome to improve features and performance.
